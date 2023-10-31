@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\cookiescakesfiles\bin\Debug\cookiescakesfiles.exe.config
+C:\Users\User\source\repos\cookiescakesfiles\bin\Debug\cookiescakesfiles.exe
+C:\Users\User\source\repos\cookiescakesfiles\bin\Debug\cookiescakesfiles.pdb
+C:\Users\User\source\repos\cookiescakesfiles\obj\Debug\cookiescakesfiles.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\cookiescakesfiles\obj\Debug\cookiescakesfiles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cookiescakesfiles\obj\Debug\cookiescakesfiles.exe
+C:\Users\User\source\repos\cookiescakesfiles\obj\Debug\cookiescakesfiles.pdb
